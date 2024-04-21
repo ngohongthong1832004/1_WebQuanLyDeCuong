@@ -1,0 +1,6 @@
+[submodule "FE"]
+	path = FE
+	url = https://github.com/ngohongthong1832004/MyCurrV2.git
+[submodule "backend_web_decuong"]
+	path = backend_web_decuong
+	url = https://github.com/Truong-itt/backend_web_decuong.git
