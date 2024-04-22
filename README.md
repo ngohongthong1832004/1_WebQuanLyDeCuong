@@ -9,13 +9,13 @@
 ## CÀI ĐẶT
 
 Clone GitHub submodules:
-- clone tất cả các sorce:  ```git clone --recursive https://github.com/ngohongthong1832004/1_WebQuanLyDeCuong.git```
+- Clone tất cả các sorce:  ```git clone --recursive https://github.com/ngohongthong1832004/1_WebQuanLyDeCuong.git```
 - Sau khi clone thì vô từng thư mục để có thể chạy từng phần riêng biệt:
-- Front-end
+- Front-End
     + ``` cd FE ```
     + ``` npm install ```
     + ``` npm run start ```
-- Back-end
+- Back-End
     + ``` cd backend_web_decuong ```
     + ``` python -m venv .venv ```
     + ``` .venv\Script\active ```
