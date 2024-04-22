@@ -20,7 +20,9 @@ Clone GitHub submodules:
     + ``` python -m venv .venv ```
     + ``` .venv\Script\active ```
     + ``` pip install -r requirements.txt ```
-    + ``` python manage.py runserver 8000 ```
+    + ``` cd mysite```
+    + ``` .\init_db.bat ```
+    + ``` .\run.bat ```
 
 
 ## THÔNG TIN THÀNH VIÊN
