@@ -1,4 +1,4 @@
-# -XÂY DỰNG ĐỀ TÀI QUẢN LÝ ĐỀ CƯƠNG MÔN HỌC (FIT-curriculum)
+# XÂY DỰNG ĐỀ TÀI QUẢN LÝ ĐỀ CƯƠNG MÔN HỌC (FIT-curriculum)
 
 - Web giải quyến vẫn đề quảng lý đề cương môn học một cách thông nhất theo một tiêu chuẩn đã được định sẵn nhằm mục đích thuận tiện nhất trong việc quản lý
   - Ứng dụng có thể CRUD đề cương, CRUD chương trình đào tạo cho từng khóa
