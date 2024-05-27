@@ -1,4 +1,5 @@
-# -WebQuangLyDeCuong
+# XÂY DỰNG ĐỀ TÀI QUẢN LÝ ĐỀ CƯƠNG MÔN HỌC (FIT-curriculum)
+
 - Web giải quyến vẫn đề quảng lý đề cương môn học một cách thông nhất theo một tiêu chuẩn đã được định sẵn nhằm mục đích thuận tiện nhất trong việc quản lý
   - Ứng dụng có thể CRUD đề cương, CRUD chương trình đào tạo cho từng khóa
   - Đối tượng người dùng là Giảng viên trường đại học IUH 
@@ -11,14 +12,15 @@
 Clone GitHub submodules:
 - Clone tất cả các sorce:  ```git clone --recursive https://github.com/ngohongthong1832004/1_WebQuanLyDeCuong.git```
 - Sau khi clone thì vô từng thư mục để có thể chạy từng phần riêng biệt:
+- ``` cd .\1_WebQuanLyDeCuong ```
 - Front-End
     + ``` cd FE ```
     + ``` npm install ```
-    + ``` npm run start ```
+    + ``` npm run dev ```
 - Back-End
     + ``` cd backend_web_decuong ```
     + ``` python -m venv .venv ```
-    + ``` .venv\Script\active ```
+    + ``` .\.venv\Scripts\activate.ps1 ```
     + ``` pip install -r requirements.txt ```
     + ``` cd mysite```
     + ``` .\init_db.bat ```
