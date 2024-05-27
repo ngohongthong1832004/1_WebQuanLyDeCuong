@@ -16,7 +16,7 @@ Clone GitHub submodules:
 - Front-End
     + ``` cd FE ```
     + ``` npm install ```
-    + ``` npm run start ```
+    + ``` npm run dev ```
 - Back-End
     + ``` cd backend_web_decuong ```
     + ``` python -m venv .venv ```
