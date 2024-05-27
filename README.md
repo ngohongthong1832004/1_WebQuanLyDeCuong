@@ -13,6 +13,7 @@ Clone GitHub submodules:
 - Clone tất cả các sorce:  ```git clone --recursive https://github.com/ngohongthong1832004/1_WebQuanLyDeCuong.git```
 - Sau khi clone thì vô từng thư mục để có thể chạy từng phần riêng biệt:
 - Front-End
+    + ``` cd .\1_WebQuanLyDeCuong ```
     + ``` cd FE ```
     + ``` npm install ```
     + ``` npm run start ```
