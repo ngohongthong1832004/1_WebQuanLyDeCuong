@@ -20,7 +20,7 @@ Clone GitHub submodules:
 - Back-End
     + ``` cd backend_web_decuong ```
     + ``` python -m venv .venv ```
-    + ``` .venv\Script\active ```
+    + ``` .\.venv\Scripts\activate.ps1 ```
     + ``` pip install -r requirements.txt ```
     + ``` cd mysite```
     + ``` .\init_db.bat ```
